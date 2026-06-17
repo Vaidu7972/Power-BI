@@ -12,4 +12,5 @@ Day6-8 Scatter Chart , Pie chart , Donut chart, TreeMap chart, Map chart(setting
 
 Day-9-10 Gauge Map , Kpi(used for finding exact goal) with slicer multi data based on selecting , Using card and slicer formating
 
-Day-11 I made fully Analysis project on Ecommerce Sales Dashboard
+Day-11 I made fully Analysis project on Ecommerce Sales Dashboard 
+In which I did data extraction , data analysis , data Transformation .
